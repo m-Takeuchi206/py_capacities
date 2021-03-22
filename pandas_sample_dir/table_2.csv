@@ -1,0 +1,2 @@
+,Infrastructure,Entity,Notes,IDN,DNSSEC
+0,.arpa,"""Address and Routing Parameter Area""",初期のインターネットにおいて高等研究計画局(ARPA)に割り当てられていた。現在ではDNSの逆引きなど指定されたインフラ用途にのみ使用されている。,No,Yes

@@ -1,0 +1,22 @@
+,ドメイン名,IDN,言語,文字,転記,翻訳,Notes,DNSSEC
+0,xn--4gbrim[94],موقع.,アラビア語,アラビア文字,mawqiʿ,"""site"" or ""location""",Open TLD,Yes
+1,xn--ngbc5azd[94],شبكة.,アラビア語,アラビア文字,shabaka,"""network""",Open TLD,Yes
+2,xn--mgbab2bd[94],بازار.,ペルシア語,アラビア文字,bâzâr,"""market"" or ""bazaar""",Open TLD,Yes
+3,xn--q9jyb4c[94],.みんな,日本語,平仮名,minna,"""everyone""",Open TLD [95],Yes
+4,xn--3ds443g[94],.在线,中国語,漢字（簡体字）,zàixiàn,"""online""","Open TLD.The Chinese Government quickly bought 20,000 internationalized subdomains for localities.[96]",Yes
+5,xn--fiq228c5hs[94],.中文网,中国語,漢字（簡体字）,Zhōngwén wǎng,"""(written) Chinese (language) network""","Open TLD.The Chinese Government quickly bought 20,000 IDN for localities.[96]",Yes
+6,xn--6frz82g[94],.移动,中国語,漢字（簡体字）,yídòng,"""movement"" or ""mobile""",Open TLD,Yes
+7,xn--ses554g[94],.网址,中国語,漢字（簡体字）,wǎngzhǐ,"""network address"" or ""website""",Open TLD,Yes
+8,xn--io0a7i[94],.网络,中国語,漢字（簡体字）,wǎngluò,"""network""",Open TLD,Yes
+9,xn--55qx5d[94],.公司,中国語,漢字（簡体字・繁体字）,gōngsī,"""business organization"" or ""company""",Open TLD,Yes
+10,xn--czru2d[94],.商城,中国語,漢字（簡体字・繁体字）,shāngchéng,"""mall""",Open TLD,Yes
+11,xn--nqv7f[94],.机构,中国語,漢字（簡体字）,jīgòu,"""agency""",Open TLD,Yes
+12,xn--6qq986b3xl[94],.我爱你,中国語,漢字（簡体字）,wǒ ài nǐ,"""I love you""",Open TLD,Yes
+13,xn--czr694b[94],.商标,中国語,漢字（簡体字）,shāngbiāo,"""trademark""",Open TLD,Yes
+14,xn--rhqv96g[94],.世界,中国語,漢字 （簡体字・繁体字）,shìjiè,"""world""",Open TLD,Yes
+15,xn--3bst00m[94],.集团,中国語,漢字（簡体字）,jítuán,"""conglomerate""",Open TLD,Yes
+16,xn--d1acj3b[94],.дети,ロシア語,キリル文字,dyeti,"""kids"" or ""children""",Open TLD,Yes
+17,xn--80asehdb[94],.онлайн,ロシア語,キリル文字,onlain,"""online""",Open TLD,Yes
+18,xn--c1avg[94],.орг,ロシア語,キリル文字,org,"""org"" or ""organization""",Open TLD,Yes
+19,xn--80aswg[94],.сайт,ロシア語,キリル文字,sait,"""site""",Open TLD,Yes
+20,xn--i1b6b1a6a2e[94],.संगठन,ヒンディー語,デーヴァナーガリー,saṅgaṭhana,"""organization""",Open TLD,Yes

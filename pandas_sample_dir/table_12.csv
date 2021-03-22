@@ -1,0 +1,15 @@
+,Name,Entity Type,Restrictions,Operator,IDN,DNSSEC
+0,.bar,バーとパブ,—,Punto 2012,Yes,Yes
+1,.bank,銀行,Restricted to banks and savings associations,,不明,Yes
+2,.coop,協同組合,ロッチデール原則で定義される協同組合に限定。,DotCooperation,No,No
+3,.enterprises,business associations,—,ドーナツ[donuts 127],Yes,Yes
+4,.industries,industrial businesses,—,ドーナツ[donuts 128],Yes,Yes
+5,.institute,Established business associations,—,ドーナツ[donuts 129],Yes,Yes
+6,.ltda,南アメリカの企業,ブラジル・コロンビア・チリ・エクアドルのLTDA（LLCのような物）に限定[90]。,InterNetX,不明,Yes
+7,.pub,バーとパブ,—,Rightside Group[n 1],Yes,Yes
+8,.realtor,不動産仲買業者,全米リアルター協会（英語版）とカナダ不動産協会（英語版）およびそれらに関連する団体の会員に限定。[91]。,Real Estate Domains,不明,Yes
+9,.reit,REIT（不動産投資信託）,"Restricted to REITs, as determined by national law.[92]",National Association of Real Estate Investment Trusts,不明,Yes
+10,.rest,レストラン,—,Punto 2012,Yes[93],Yes
+11,.restaurant,レストラン,—,ドーナツ[donuts 130],Yes,Yes
+12,.sarl,"有限会社, Francophone LLC",—,ドーナツ[donuts 131],Yes,Yes
+13,.ventures,funding for start-ups,—,ドーナツ,Yes,Yes

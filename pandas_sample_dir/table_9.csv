@@ -1,0 +1,9 @@
+,Name,Translation,Restrictions,Operator,IDN,DNSSEC
+0,.haus,"""house""",—,Rightside Group[n 1],Yes,Yes
+1,.immobilien,"""real estate""",—,Rightside Group[n 1],German[10],Yes
+2,.jetzt,"""now""",—,New TLD Company,Yes,Yes
+3,.kaufen,"""buy""",—,Rightside Group[n 1],German[10],Yes
+4,.reise,"""travel""","Must be an eligible member of the travel business community; also, domain must be used for travel-related purposes.[87]",dotreise,ラテン文字[10],Yes
+5,.reisen,"""traveling""",—,ドーナツ[donuts 124],German[10],Yes
+6,.schule,"""school""",—,ドーナツ[donuts 125],Yes,Yes
+7,.versicherung,"""insurance""",—,,ラテン文字[10],Yes

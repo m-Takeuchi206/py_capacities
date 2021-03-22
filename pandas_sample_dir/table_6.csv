@@ -1,0 +1,348 @@
+,Name,Target market,Restrictions,Operator/Registry,IDN,DNSSEC
+0,.academy,academic institutes,—,ドーナツ[donuts 1],Yes,Yes
+1,.accountant,accountants and accounting firms,—,Famous Four Media,不明,Yes
+2,.accountants,accountants and accounting firms,—,ドーナツ[donuts 2],Yes,Yes
+3,.active,general,—,The Active Network,不明,Yes
+4,.actor,actors,—,Rightside Group[n 1],Yes,Yes
+5,.adult,adult entertainment (pornography),"For sites providing sexually explicit content, such as pornography.",,Yes,Yes
+6,.aero,航空業界,Must verify eligibility for registration; only those in various categories of air-travel-related entities may register.,SITA,No,No
+7,.agency,business associations,—,ドーナツ[donuts 3],Yes[10],Yes
+8,.airforce,defense contractors,—,Rightside Group[n 1],不明,Yes
+9,.apartments,apartments,—,ドーナツ,Yes,Yes
+10,.app,Phone apps,—,Google[n 2],不明,Yes
+11,.archi,architects and architect firms[41],Restricted to individuals and organizations that can verify participation in architecture industry.[42],STARTING DOT LIMITED,不明,Yes
+12,.army,defense contractors,—,Rightside Group[n 1],不明,Yes
+13,.associates,business associations,—,ドーナツ[donuts 4],Yes,Yes
+14,.attorney,attorneys and legal organizations,—,Rightside Group[n 1],不明,Yes
+15,.auction,,—,Rightside Group[n 1],不明,Yes
+16,.audio,"stereo/sound systems, music",—,Uniregistry,Yes[43],Yes
+17,.autos,,—,DERAutos,不明,Yes
+18,.band,,—,Rightside Group[n 1],不明,Yes
+19,.bar,Bars and related industry,—,Punto 2012,Yes,Yes
+20,.bargains,coupons and online sellers,—,ドーナツ[donuts 5],Yes,Yes
+21,.beer,breweries and beer aficionados,—,Minds + Machines[n 3],不明,Yes
+22,.best,,—,BestTLD Pty Ltd,不明,Yes
+23,.bid,auctions,—,dot Bid Limited,Yes,Yes
+24,.bike,bicycles,—,ドーナツ[donuts 6],Yes[44],Yes
+25,.bingo,ビンゴ,—,ドーナツ,Yes,Yes
+26,.bio,"biodiversity, biographies",May require compliance with organic agriculture principles.[45],STARTING DOT LIMITED,不明,Yes
+27,.biz,ビジネス,"Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not held by commercial entities in accordance with the domain's charter. This TLD was created to provide relief for the .com TLD, where many names have already been taken.",NeuStar,Yes[10],Yes
+28,.black,those who like the color black[46],—,Afilias,Yes,Yes
+29,.blackfriday,"ブラックフライデー, retail",—,Uniregistry,Yes[43],Yes
+30,.blog,Blogs,—,,不明,Yes
+31,.blue,those who like the color blue[47],—,Afilias,Yes,Yes
+32,.boo,ghosts and spooky business,—,Google[n 2],不明,Yes
+33,.boutique,specialized businesses,—,ドーナツ[donuts 7],Yes,Yes
+34,.build,construction industry,—[48],,Yes,Yes
+35,.builders,construction workers,—,ドーナツ[donuts 8],Yes,Yes
+36,.business,businesses,—,ドーナツ[donuts 9],Yes,Yes
+37,.buzz,marketing and social networking,—,DOTSTRATEGY,Yes,Yes
+38,.cab,cabs and taxi companies,—,ドーナツ[donuts 10],Yes,Yes
+39,.camera,camera-related businesses,—,ドーナツ[donuts 11],Yes,Yes
+40,.camp,camps and camping,—,ドーナツ[donuts 12],Yes,Yes
+41,.cancerresearch,"Organizations, research institutes and individuals interested in ending cancer through research [49]",—,Australian Cancer Research Foundation,不明,Yes
+42,.capital,financial firms,—,ドーナツ[donuts 13],Yes,Yes
+43,.cards,general,—,ドーナツ[donuts 14],Yes,Yes
+44,.care,healthcare industry,—,ドーナツ[donuts 15],Yes,Yes
+45,.career,,—,dotCareer LLC,Yes,Yes
+46,.careers,Employment,—,ドーナツ[donuts 16],Yes,Yes
+47,.cash,financial,—,ドーナツ[donuts 17],Yes,Yes
+48,.casino,カジノ,—,ドーナツ,Yes,Yes
+49,.catering,Food service,—,ドーナツ[donuts 18],Yes,Yes
+50,.center,general,—,ドーナツ[donuts 19],Yes,Yes
+51,.ceo,CEOs,—[50],CEOTLD Pty Ltd,不明,Yes
+52,.channel,,—,Google[n 2],不明,Yes
+53,.chat,online chat,—,ドーナツ,Yes,Yes
+54,.cheap,Resellers,—,ドーナツ[donuts 20],Yes,Yes
+55,.christmas,Christmas,—,Uniregistry,Yes[43],Yes
+56,.church,churches,—,ドーナツ[donuts 21],Yes,Yes
+57,.city,general,—,ドーナツ[donuts 22],Yes,Yes
+58,.claims,"retail, auctions",—,ドーナツ[donuts 23],Yes,Yes
+59,.cleaning,Cleaning services,—,ドーナツ[donuts 24],Yes,Yes
+60,.click,,—,Uniregistry,Yes[43],Yes
+61,.clinic,healthcare clinics,—,ドーナツ[donuts 25],Yes,Yes
+62,.clothing,Apparel,—,ドーナツ[donuts 26],Yes,Yes
+63,.club,"groups, organizations, assemblies, communities, general",—[51],.CLUB DOMAINS,Yes[52],Yes
+64,.coach,travel (flights and motor coaches),—,ドーナツ,Yes,Yes
+65,.codes,computer and/or encryption code enthusiasts,—,ドーナツ[donuts 27],Yes,Yes
+66,.coffee,cafés and coffee aficionados,—,ドーナツ[donuts 28],Yes,Yes
+67,.college,Educational,—,XYZ.com,Yes,Yes
+68,.community,"social groups, neighborhoods",—,ドーナツ[donuts 29],Yes,Yes
+69,.company,business associations,—,ドーナツ[donuts 30],Yes,Yes
+70,.computer,Technology,—,ドーナツ[donuts 31],Yes,Yes
+71,.condos,Real estate,—,ドーナツ[donuts 32],Yes,Yes
+72,.construction,Construction industry,—,ドーナツ[donuts 33],Yes,Yes
+73,.consulting,hired advisors,—,Rightside Group[n 1],Yes,Yes
+74,.contractors,Remodeling and independent businesses,—,ドーナツ[donuts 34],Yes,Yes
+75,.cooking,sharing recipes,—,Minds + Machines[n 3],Yes,Yes
+76,.cool,General interests,—,ドーナツ[donuts 35],Yes,Yes
+77,.country,general,—,Minds + Machines[n 3],Yes,Yes
+78,.coupons,coupons,—,ドーナツ,Yes,Yes
+79,.credit,Financial institutions,—,ドーナツ[donuts 36],Yes,Yes
+80,.creditcard,Financial institutions,—,ドーナツ[donuts 37],Yes,Yes
+81,.cricket,クリケット,—,Famous Four Media[ffm 1],不明,Yes
+82,.cruises,cruise businesses and travel,—,ドーナツ[donuts 38],Yes,Yes
+83,.dad,families,—,Google[n 2],不明,Yes
+84,.dance,Dance studios and companies,—,Rightside Group[n 1],Yes,Yes
+85,.date,online dating,—,,不明,Yes
+86,.dating,online dating,—,ドーナツ[donuts 39],Yes,Yes
+87,.day,general,—,Google[n 2],不明,Yes
+88,.deals,online shopping and couponing,—,ドーナツ[donuts 40],Yes,Yes
+89,.degree,general,—,Rightside Group[n 1],不明,Yes
+90,.delivery,general,—,ドーナツ[donuts 41],Yes,Yes
+91,.democrat,民主党 politics,—,Rightside Group[n 1],Yes,Yes
+92,.dental,歯科医,—,ドーナツ[donuts 42],Yes,Yes
+93,.dentist,歯科医,—,Rightside Group[n 1],不明,Yes
+94,.design,graphic art and fashion,—,ドーナツ,Yes,Yes
+95,.diamonds,diamond and jewelry industry,—,ドーナツ[donuts 43],Yes,Yes
+96,.diet,,—,Uniregistry,Yes[43],Yes
+97,.digital,general,—,ドーナツ[donuts 44],Yes,Yes
+98,.direct,general,—,ドーナツ[donuts 45],不明,Yes
+99,.directory,general directory,—,ドーナツ[donuts 46],Yes,Yes
+100,.discount,general,—,ドーナツ[donuts 47],Yes,Yes
+101,.dog,dog stores and owners,—,ドーナツ,Yes,Yes
+102,.domains,domain registries,—,ドーナツ[donuts 48],Yes,Yes
+103,.download,technology,—,Famous Four Media,不明,Yes
+104,.eat,restaurants and [foodie]s,—,Google[n 2],不明,Yes
+105,.education,educational institutes,—,ドーナツ[donuts 49],Yes,Yes
+106,.email,email,—,ドーナツ[donuts 50],Yes,Yes
+107,.energy,energy industry and marketing,—,ドーナツ[donuts 51],Yes,Yes
+108,.engineer,engineers and engineering firms,—,Rightside Group[n 1],Yes,Yes
+109,.engineering,engineering firms,—,ドーナツ[donuts 52],Yes,Yes
+110,.equipment,equipment-related businesses,—,ドーナツ[donuts 53],Yes,Yes
+111,.esq,"lawyers, law firms, legal professionals",To be restricted to verified lawyers and attorneys[53],Google[n 2],不明,Yes
+112,.estate,real estate businesses,—,ドーナツ[donuts 54],Yes,Yes
+113,.events,happenings,—,ドーナツ[donuts 55],Yes,Yes
+114,.exchange,generic trade,—,ドーナツ[donuts 56],Yes,Yes
+115,.expert,generic expertise,—,ドーナツ[donuts 57],Yes,Yes
+116,.exposed,general interest,—,ドーナツ[donuts 58],Yes,Yes
+117,.express,shipping,—,ドーナツ,Yes,Yes
+118,.fail,general,—,ドーナツ[donuts 59],Yes,Yes
+119,.faith,religion and churches,—,,不明,Yes
+120,.fans,general,—,,不明,Yes
+121,.farm,farms and agriculture,—,ドーナツ[donuts 60],Yes,Yes
+122,.fashion,clothing industry,—,Minds + Machines[n 3],Yes,Yes
+123,.pid,,—,Top Level Spectrum,不明,Yes
+124,.finance,financial,—,ドーナツ[donuts 61],Yes,Yes
+125,.financial,financial,—,ドーナツ[donuts 62],Yes,Yes
+126,.fish,"fishing businesses, sports, and interests",—,ドーナツ[donuts 63],Yes,Yes
+127,.fishing,"fishing businesses, sports, and interests",—,Minds + Machines[n 3],Yes,Yes
+128,.fit,Fitness and exercise,—,Minds + Machines[n 3],不明,Yes
+129,.fitness,Fitness and exercise,—,ドーナツ[donuts 64],Yes,Yes
+130,.flights,airline businesses and travel,—,ドーナツ[donuts 65],Yes,Yes
+131,.florist,florists,—,ドーナツ[donuts 66],Yes,Yes
+132,.flowers,florists and gardens,—,Uniregistry,Yes,Yes
+133,.fly,travel,"To be restricted to verified airlines, travel agencies and travel resellers[54]",Google[n 2],不明,Yes
+134,.foo,web development,—[55],Google[n 2],不明,Yes
+135,.football,サッカー・アメリカンフットボール,—,ドーナツ,Yes,Yes
+136,.forsale,online retail,—,Rightside Group[n 1],不明,Yes
+137,.foundation,charitable organizations,—,ドーナツ[donuts 67],Yes,Yes
+138,.fund,financial,—,ドーナツ[donuts 68],Yes,Yes
+139,.furniture,furniture businesses,—,ドーナツ[donuts 69],Yes,Yes
+140,.fyi,"""for your information""",—,ドーナツ,Yes,Yes
+141,.gallery,photo and art galleries,—,ドーナツ[donuts 70],Yes,Yes
+142,.garden,gardening,—,Minds + Machines[n 3],Yes,Yes
+143,.gift,gift-giving,—,Uniregistry,Yes[43],Yes
+144,.gifts,gift-giving,—,ドーナツ[donuts 71],Yes,Yes
+145,.gives,charities and gift-giving,—,Rightside Group[n 1],不明,Yes
+146,.glass,window sales and repairs,—,ドーナツ[donuts 72],Yes,Yes
+147,.global,general,—,Dot GLOBAL,Yes,Yes
+148,.gold,gold and luxury,—,ドーナツ,不明,Yes
+149,.golf,ゴルフ,—,ドーナツ,Yes,Yes
+150,.gop,共和党 politics,—,Republican State Leadership Committee,Spanish[56],Yes
+151,.graphics,graphics,—,ドーナツ[donuts 73],Yes,Yes
+152,.green,the environmentally-focused,"""As a Registrant you may not ... use a .green name or its content in a way that negatively affects the mission, purpose of the .green TLD, or its brand.""[57]",Afilias,不明,Yes
+153,.gripe,opinion sites,—,ドーナツ[donuts 74],Yes,Yes
+154,.guide,help sites,—,ドーナツ[donuts 75],Yes,Yes
+155,.guitars,Guitars,—,Uniregistry,Yes[43],Yes
+156,.guru,generic expertise,—,ドーナツ[donuts 76],Yes[58],Yes
+157,.healthcare,healthcare industry,—,ドーナツ[donuts 77],不明,Yes
+158,.help,help sites,—,Uniregistry,Yes[43],Yes
+159,.here,generic geographic,—,Google[n 2],不明,Yes
+160,.hiphop,ヒップホップ文化,—,Uniregistry,Yes[43],Yes
+161,.hiv,AIDS・HIV,—,dotHIV,不明,Yes
+162,.hockey,ホッケー,—,ドーナツ,Yes,Yes
+163,.holdings,real estate or financial business,—,ドーナツ[donuts 78],Yes,Yes
+164,.holiday,holiday gift industry,—,ドーナツ[donuts 79],Yes,Yes
+165,.homes,individuals interested in real estate and home improvement,—,Dominion Enterprises,不明,Yes
+166,.horse,horse-related businesses and interest,—,Minds + Machines[n 3],Yes,Yes
+167,.host,network companies,—,Radix Registry,不明,Yes
+168,.hosting,,—,Uniregistry,Yes[43],Yes
+169,.house,real estate and construction businesses,—,ドーナツ[donuts 80],Yes,Yes
+170,.how,how-to guides,—,Google[n 2],不明,Yes
+171,.info,情報,—,Afilias,German[10],Yes
+172,.ing,"Verbal suffix: e.g., ""jump.ing"".",—,Google[n 2],不明,Yes
+173,.ink,creative printing or tattooing[59],—,Top Level Design,Yes,Yes
+174,.institute[60],,—,ドーナツ[donuts 81],Yes,Yes
+175,.insure,Insurance companies,—,ドーナツ[donuts 82],Yes,Yes
+176,.international,international entities,—,ドーナツ[donuts 83],Yes,Yes
+177,.investments,financial,—,ドーナツ[donuts 84],Yes,Yes
+178,.jewelry,jewelry stores,—,ドーナツ,Yes,Yes
+179,.jobs,雇用,For websites with job opportunities and job listings.[61],Employ Media,No,Yes
+180,.kim,"キムという名前の人トルコ語で""who""の意味でもある",—,Afilias,不明,Yes
+181,.kitchen,food industry and remodeling,—,ドーナツ[donuts 85],Yes,Yes
+182,.land,real estate,—,ドーナツ[donuts 86],Yes,Yes
+183,.lawyer,lawyers and legal organizations,—,Rightside Group[n 1],不明,Yes
+184,.lease,financing,—,ドーナツ[donuts 87],Yes,Yes
+185,.legal,lawyers and legal organizations,—,ドーナツ,Yes,Yes
+186,.lgbt,"the lesbian, gay, bisexual and transgender community","""Registrants are prohibited from using the .LGBT domain in a manner that is harmful, threatening, abusive, harassing, defamatory, or hateful with respect to the LGBT community.""[62]",Afilias,不明,Yes
+187,.life,general,—,ドーナツ[donuts 88],Yes,Yes
+188,.lighting,lighting,—,ドーナツ[donuts 89],Yes,Yes
+189,.limited,general,—,ドーナツ[donuts 90],Yes,Yes
+190,.limo,limousine businesses,—,ドーナツ[donuts 91],Yes,Yes
+191,.link,connecting to information[63],—,Uniregistry,Yes[43],Yes
+192,.loan,banks and lenders,—,Famous Four Media,不明,Yes
+193,.loans,banks and lenders,—,ドーナツ[donuts 92],Yes,Yes
+194,.lol,LOL: laughing out loud,—,Uniregistry[64],不明,Yes
+195,.lotto,,—,Afilias,不明,Yes
+196,.love,dating sites,—,,不明,Yes
+197,.luxe,,—,Minds + Machines[n 3],不明,Yes
+198,.luxury,businesses catering to the wealthy,—,Luxury Partners,Yes,Yes
+199,.management,business management,—,ドーナツ[donuts 93],Yes,Yes
+200,.market,marketing services and retailers,—,Rightside Group[n 1],不明,Yes
+201,.marketing,marketing services,—,ドーナツ[donuts 94],Yes,Yes
+202,.markets,financial and stock markets,—,IG Group,不明,Yes
+203,.mba,経営学修士,—,ドーナツ,Yes,Yes
+204,.media,general media interests,—,ドーナツ[donuts 95],Yes,Yes
+205,.meet,"social gatherings, meeting new people",—,Afilias,不明,Yes
+206,.meme,インターネットミーム,—,Google[n 2],不明,Yes
+207,.memorial,memorial sites,—,ドーナツ,Yes,Yes
+208,.men,男性,—,Famous Four Media,不明,Yes
+209,.menu,レストラン,—,Wedding TLD2,Yes,Yes
+210,.mobi,モバイル端末,標準に従ってモバイル端末に対応したサイトのために使用。,Afilias,Yes,No
+211,.moe,「萌え」とは日本のおたく文化に深く根ざしているスラング。萌えを参照のこと[65]。,—,インターリンク,Yes,Yes
+212,.money,金融,—,ドーナツ,Yes,Yes
+213,.mortgage,mortgage lenders,—,Rightside Group[n 1],不明,Yes
+214,.motorcycles,motorcycles,—,DERMotorcycles,不明,Yes
+215,.mov,デジタル動画,—,Google[n 2],不明,Yes
+216,.movie,movies and cinemas,—,ドーナツ,Yes,Yes
+217,.museum,museums,Must be verified as a legitimate museum.,Museum Domain Management Association,ラテン文字[10],Yes
+218,.name,"individuals, by name","Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not by individuals (or the owners of fictional characters) in accordance with the domain's charter.",ベリサイン,Yes[10],Yes
+219,.navy,defense contractors,—,Rightside Group[n 1],不明,Yes
+220,.network,general,—,ドーナツ[donuts 96],Yes,Yes
+221,.new,general,—,Google[n 2],不明,Yes
+222,.news,news sites,—,,不明,Yes
+223,.ngo,非政府組織Sold packaged with .ong.,"Restricted to validated NGOs, as determined by PIR. See the eligibility requirements.",Public Interest Registry,不明,Yes
+224,.ninja,general expertise,—,Rightside Group[n 1],Yes,Yes
+225,.one,generic,—,One.com,不明,Yes
+226,.ong,非政府組織Sold packaged with .ngo.,"Restricted to validated NGOs, as determined by PIR. See the eligibility requirements.",Public Interest Registry,不明,Yes
+227,.onl,"short for ""online""",—,I-REGISTRY,不明,Yes
+228,.online,generic,—,,不明,Yes
+229,.ooo,general,—,Infibeam,No,Yes
+230,.organic,"organic gardeners, farmers, foods, etc.",Registrants must be verified as a member of the organic community.[66],Afilias,不明,Yes
+231,.partners,businesses,—,ドーナツ[donuts 97],Yes,Yes
+232,.parts,manufacturing and consumer auto,—,ドーナツ[donuts 98],Yes,Yes
+233,.party,nightclubs and social gatherings,—,Famous Four Media[ffm 2],不明,Yes
+234,.pharmacy,pharmacies,"""All registrants within the .pharmacy gTLD are vetted prior to registration to confirm that they meet all applicable regulatory standards, including pharmacy licensure and valid prescription requirements, in the jurisdictions where they are based and where they serve patients.""[67]",National Association of Boards of Pharmacy,不明,Yes
+235,.photo,photography and photo-sharing,—,Uniregistry,Yes[43],Yes
+236,.photography,photography and photo-sharing,—,ドーナツ[donuts 99],Yes,Yes
+237,.photos,photography and photo-sharing,—,ドーナツ[donuts 100],Yes,Yes
+238,.physio,physical therapists,"Must be eligible for membership within an association that is a member of the World Confederation for Physical Therapy, have proper training as a physical therapist outside WCPT's reach, or otherwise supports physical therapy.[68][69]",PhysBiz,不明,Yes
+239,.pics,photography and photo-sharing,—,Uniregistry,Yes[43],Yes
+240,.pictures,photography and photo-sharing,—,ドーナツ[donuts 101],Yes,Yes
+241,.feedback,,—,Top Level Spectrum,不明,Yes
+242,.pink,those who like the color pink,—,Afilias,Yes,Yes
+243,.pizza,pizza parlors,—,ドーナツ[donuts 102],Yes,Yes
+244,.place,general,—,ドーナツ[donuts 103],Yes,Yes
+245,.plumbing,plumbing businesses,—,ドーナツ[donuts 104],Yes,Yes
+246,.plus,generic,—,ドーナツ,Yes,Yes
+247,.poker,ポーカー players and sites,—,Afilias[n 4],不明,Yes
+248,.porn,adult entertainment (pornography),"For sites providing sexually explicit content, such as pornography.",,Yes,Yes
+249,.post,postal services,"The .post TLD is restricted to Postal Administrations as defined in the Universal Postal Union constitution, and their large customers who wish to provide ""Trusted Postal Services"".[70]",Universal Postal Union,No[71],Yes
+250,.press,publishing and journalism,—,Radix Registry,不明,Yes
+251,.pro,professions,"Currently, .pro is reserved for licensed or certified professionals worldwide. A professional seeking to register a .pro domain must provide their registrar with the appropriate credentials.",Registry Services Corporation,No,No
+252,.productions,studio/art businesses,—,ドーナツ[donuts 105],Yes,Yes
+253,.prof,"Professors, teachers and learning",—,Google[n 2],不明,Yes
+254,.properties,real estate,—,ドーナツ[donuts 106],Yes,Yes
+255,.property,real estate,—,Uniregistry,Yes[43],Yes
+256,.qpon,coupons,—,dotCOOL,不明,Yes
+257,.racing,racing,—,Famous Four Media,不明,Yes
+258,.recipes,recipes and cooking,—,ドーナツ[donuts 107],Yes,Yes
+259,.red,those who like the color red[72]Also Spanish variant of .netAlso likely to be attractive for ドメインハック for words that end with '-red'.,—,Afilias,Yes,Yes
+260,.rehab,リハビリテーションセンター and support sites,—,Rightside Group[n 1],不明,Yes
+261,.ren,人人網ユーザー,Restricted TLD[73],Beijing Qianxiang Wangjing Technology Development Co.,不明,Yes
+262,.rent,Real estate professionals and small businesses,—,xyz.xyz,不明,Yes
+263,.rentals,short-term ownership,—,ドーナツ[donuts 108],Yes,Yes
+264,.repair,general repair/maintenance businesses,—,ドーナツ[donuts 109],Yes,Yes
+265,.report,business services,—,ドーナツ[donuts 110],Yes,Yes
+266,.republican,共和党 politics,—,Rightside Group[n 1],不明,Yes
+267,.rest,Restaurants and related industry,—,Punto 2012,Yes,Yes
+268,.review,public reviews,—,,不明,Yes
+269,.reviews,public reviews,—,Rightside Group[n 1],Yes,Yes
+270,.rich,businesses catering to the wealthy,—,I-REGISTRY,不明,Yes
+271,.rip,memorial sites[74],—,Rightside Group[n 1],不明,Yes
+272,.rocks,general,—,Rightside Group[n 1],Yes,Yes
+273,.rodeo,ロデオ interest,—,Minds + Machines[n 3],Yes,Yes
+274,.rsvp,Invitations and replies,—,Google[n 2],不明,Yes
+275,.run,running and jogging,—,ドーナツ,Yes,Yes
+276,.sale,retail,—,,不明,Yes
+277,.school,schools,—,ドーナツ[donuts 111],Yes,Yes
+278,.science,science-related sites,—,dot Science,不明,Yes
+279,.services,business services,—,ドーナツ[donuts 112],Yes,Yes
+280,.sex,adult entertainment (pornography),"For sites providing sexually explicit content, such as pornography.",,Yes,Yes
+281,.sexy,adult entertainment,—,Uniregistry,Yes[43],Yes
+282,.shoes,shoes,—,ドーナツ[donuts 113],Yes,Yes
+283,.show,entertainment and vlogs,—,ドーナツ,Yes,Yes
+284,.singles,online dating,—,ドーナツ[donuts 114],Yes,Yes
+285,.site,general,—,,不明,Yes
+286,.soccer,サッカー,—,ドーナツ,Yes,Yes
+287,.social,general interest,—,Rightside Group[n 1],Yes,Yes
+288,.software,computer software,—,Rightside Group[n 1],不明,Yes
+289,.solar,solar-power,—,ドーナツ[donuts 115],Yes,Yes
+290,.solutions,business services,—,ドーナツ[donuts 116],Yes,Yes
+291,.space,as a creative space,—,Radix Registry,不明,Yes
+292,.studio,"art, fitness, & entertainment",—,Rightside Group[n 1],Yes,Yes
+293,.style,fashion,—,ドーナツ,Yes,Yes
+294,.sucks,gripe sites,—,Vox Populi,不明,Yes
+295,.supplies,manufacturing industries,—,ドーナツ[donuts 117],Yes,Yes
+296,.supply,manufacturing industries,—,ドーナツ[donuts 118],Yes,Yes
+297,.support,help pages,—,ドーナツ[donuts 119],Yes[75],Yes
+298,.surf,surfing,—,Minds + Machines[n 3],不明,Yes
+299,.surgery,healthcare industry,—,ドーナツ[donuts 120],Yes,Yes
+300,.systems,technology,—,ドーナツ[donuts 121],Yes,Yes
+301,.tattoo,tattoo aficionados,—,Uniregistry,Yes[43],Yes
+302,.tax,financial,—,ドーナツ,Yes,Yes
+303,.taxi,taxi services,—,ドーナツ,Yes,Yes
+304,.team,team sports,—,ドーナツ,Yes,Yes
+305,.technology,technology,—,ドーナツ,Yes,Yes
+306,.tel,Internet communication services,A contact directory housing all types of contact information directly in the Domain Name System.,,Yes[76],No
+307,.tennis,テニス,—,ドーナツ,Yes,Yes
+308,.theater,theaters and cinemas,—,ドーナツ,Yes,Yes
+309,.tips,general help topics,—,ドーナツ,Yes,Yes
+310,.tires,tire manufacturers,—,ドーナツ,Yes,Yes
+311,.today,general,—,ドーナツ,Yes,Yes
+312,.tools,manufacturing industries,—,ドーナツ,Yes,Yes
+313,.top,general,—,Jiangsu Bangning,不明,Yes
+314,.tours,tourism,—,ドーナツ,Yes,Yes
+315,.town,generic geographic,—,ドーナツ,Yes,Yes
+316,.toys,toy businesses,—,ドーナツ,Yes,Yes
+317,.trade,businesses,—,,Yes,Yes
+318,.training,training and how-tos,—,ドーナツ,Yes,Yes
+319,.travel,travel and tourism industry related sites,Must be verified as a legitimate travel-related entity.,,No,No
+320,.university,"young adults, university life",—,ドーナツ,Yes,Yes
+321,.vacations,travel,—,ドーナツ,Yes,Yes
+322,.vet,veterans and veterinarians,—,,Yes,Yes
+323,.video,video sharing,—,,不明,Yes
+324,.villas,real estate and/or travel businesses,—,ドーナツ,Yes,Yes
+325,.vision,eye-care businesses,—,ドーナツ,Yes,Yes
+326,.vodka,ウォッカ-related businesses and interest,—,,Yes,Yes
+327,.vote,democratic elections and campaign websites,"Must use the domain in connection with a ""clearly identified political/democratic process.""[77] Initially only available to registrations in the United States.[78]",Afilias,不明,Yes
+328,.voting,polling sites,—,,ラテン文字・キリル文字[10],Yes
+329,.voyage,travel,—,ドーナツ,Yes,Yes
+330,.wang,general网（網）のピンイン表記[79]王・汪は中国本土でよくある姓,—,,Yes[80],Yes
+331,.watch,Watches,—,ドーナツ,Yes,Yes
+332,.webcam,Web cam shows and video sharing,—,,Yes,Yes
+333,.website,general,—,Radix Registry,不明,Yes
+334,.wed,engaged couples and wedding-oriented businesses,"This TLD is intended primarily for engaged couples on a short-term basis (two years with prohibitive third-year renewal fees for セカンドレベルドメインs).[81]And although the registry is advertising for multiple world languages, all domains appear to need to be in ラテン文字.[82]",,No,Yes
+335,.wedding,wedding-oriented businesses,—,Minds + Machines[n 3],Yes,Yes
+336,.whoswho,general,"An open TLD, any person or entity is permitted to register. Conceived for those cited in one of the Who's Who reference titles published around the world, the registry was opened for use by private individuals, and for-profit and nonprofit entities, including those with social media aspirations. Registry policies allow for rapid takedown of non-compliant domains, for violations including imposturous registration of another's names, and proscribed uses, including pornography or adult services/applications.",Who's Who Registry,Yes,Yes
+337,.wiki,"ウィキ""An open TLD for anyone interested in community resource creation""",—,,Yes,Yes
+338,.win,"games, Microsoft Windows",—,Famous Four Media,不明,Yes
+339,.work,general,—,Minds + Machines[n 3],Yes,Yes
+340,.works,general,—,ドーナツ,Yes,Yes
+341,.world,general,—,ドーナツ,Yes,Yes
+342,.wtf,general,—,ドーナツ,Yes,Yes
+343,.xxx,adult entertainment (pornography),"For sites providing sexually explicit content, such as pornography.",,Yes,Yes
+344,.xyz,general,—,XYZ.com,Yes[83],Yes
+345,.yoga,ヨガ,—,Minds + Machines[n 3],Yes,Yes
+346,.zone,general,—,ドーナツ,Yes,Yes

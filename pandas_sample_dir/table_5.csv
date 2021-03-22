@@ -1,0 +1,51 @@
+,ドメイン名,IDN ccTLD,国,言語,文字,転記,備考,他のccTLD,DNSSEC
+0,xn--lgbbat1ad8j,الجزائر.,アルジェリア,アラビア語,アラビア文字,al Jaza'ir,,.dz,No
+1,xn--y9a3aq,.հայ,アルメニア,アルメニア語,アルメニア文字,hay,未使用,.am,Yes
+2,xn--54b7fta0cc,.বাংলা,バングラデシュ,ベンガル語,ベンガル文字,Bangla,未委任,.bd,No
+3,xn--90ais,.бел,ベラルーシ,ベラルーシ語,キリル文字,bel,,.by,No
+4,xn--90ae,.бг[37],ブルガリア,ブルガリア語,キリル文字,bg,未委任,.bg,No
+5,xn--fiqs8s,.中国,中国,中国語,漢字（簡体字）,Zhōngguó,,.cn,Yes
+6,xn--fiqz9s,.中國,中国,中国語,漢字 （繁体字）,Zhōngguó,,.cn,Yes
+7,xn--wgbh1c,مصر.,エジプト,アラビア語,アラビア文字,Masr [38],,.eg,Yes
+8,xn--e1a4c,.ею,欧州連合,ブルガリア語,キリル文字,eyu,未委任,.eu,No
+9,xn--node,.გე,ジョージア,グルジア語,グルジア文字（ムヘドルリ）,GE,未使用,.ge,No
+10,xn--qxam,.ελ[37],ギリシャ,ギリシア語,ギリシア文字,el,未使用,.gr,No
+11,xn--j6w193g,.香港,香港,中国語,漢字 （簡体字・繁体字）,Hoeng1 gong2 / Xiānggǎng,,.hk,No
+12,xn--h2brj9c,.भारत,インド,ヒンディー語,デーヴァナーガリー,Bhārat,2014年8月27日より利用可能[39],.in,Yes
+13,xn--mgbbh1a71e,بھارت.,インド,ウルドゥー語,ウルドゥー文字,Bhārat,未使用,.in,Yes
+14,xn--fpcrj9c3d,.భారత్,インド,テルグ語,テルグ文字,Bhārata,未使用,.in,Yes
+15,xn--gecrj9c,.ભારત,インド,グジャラート語,グジャラーティー文字,Bhārat,未使用,.in,Yes
+16,xn--s9brj9c,.ਭਾਰਤ,インド,パンジャーブ語,グルムキー文字,Bhārat,未使用,.in,Yes
+17,xn--xkc2dl3a5ee0h,.இந்தியா,インド,タミル語,タミル文字,Intiyā,Became available 2015,.in,Yes
+18,xn--45brj9c,.ভারত,インド,ベンガル語,ベンガル文字,Bharôt,未使用,.in,Yes
+19,xn--mgba3a4f16a,ایران.,イラン,ペルシア語,ペルシア文字,Īrān,,.ir,No
+20,xn--mgbtx2b,عراق.,イラク,アラビア語,アラビア文字,Iraq,未使用,.iq,No
+21,xn--mgbayh7gpa,الاردن.,ヨルダン,アラビア語,アラビア文字,al 'Urdun,,.jo,No
+22,xn--80ao21a,.қаз,カザフスタン,カザフ語,キリル文字,qaz,,.kz,No
+23,xn--mix082f,.澳门,マカオ,中国語,漢字（簡体字）,Ou3 mun4 / Àomén,未委任,.mo,No
+24,xn--mix891f,.澳門,マカオ,中国語,漢字（繁体字）,Ou3 mun4 / Àomén,未委任,.mo,No
+25,xn--d1alf,.мкд,北マケドニア,マケドニア語,キリル文字,mkd,,.mk,No
+26,xn--mgbx4cd0ab,مليسيا.,マレーシア,マレー語,アラビア文字（ジャウィ文字）,Malaysia,,.my,Yes
+27,xn--l1acc,.мон,モンゴル,モンゴル語,キリル文字,mon,,.mn,Yes
+28,xn--mgbc0a9azcg,المغرب.,モロッコ,アラビア語,アラビア文字,al Maghrib,,.ma,No
+29,xn--mgb9awbf,عمان.,オマーン,アラビア語,アラビア文字,Oman,,.om,No
+30,xn--mgbai9azgqp6j,پاکستان.,パキスタン,ウルドゥー語,ウルドゥー文字,Pakistan,未委任,.pk,No
+31,xn--ygbi2ammx,فلسطين.,パレスチナ,アラビア語,アラビア文字,Filastīn,,.ps,No
+32,xn--wgbl6a,قطر.,カタール,アラビア語,アラビア文字,Qatar,,.qa,No
+33,xn--p1ai,.рф,ロシア,ロシア語,キリル文字,rf,,.ru,Yes
+34,xn--mgberp4a5d4ar,السعودية.,サウジアラビア,アラビア語,アラビア文字,as-Sa'ūdiyyah,,.sa,No
+35,xn--90a3ac,.срб,セルビア,セルビア語,キリル文字,srb,,.rs,No
+36,xn--yfro4i67o,.新加坡,シンガポール,中国語,漢字 （簡体字・繁体字）,Xīnjiāpō,,.sg,No
+37,xn--clchc0ea0b2g2a9gcd,.சிங்கப்பூர்,シンガポール,タミル語,タミル文字,Cinkappūr,,.sg,No
+38,xn--3e0b707e,.한국,韓国,韓国語,ハングル,Han-guk,,.kr,Yes
+39,xn--fzc2c9e2c,.ලංකා,スリランカ,シンハラ語,シンハラ文字,Lanka,,.lk,部分的[22]
+40,xn--xkc2al3hye2a,.இலங்கை,スリランカ,タミル語,タミル文字,Ilangai,,.lk,部分的[22]
+41,xn--mgbpl2fh,سودان.,スーダン,アラビア語,アラビア文字,Sudan,,.sd,No
+42,xn--ogbpf8fl,سورية.,シリア,アラビア語,アラビア文字,Sūryā,,.sy,No
+43,xn--kprw13d,.台湾,中華民国,中国語,漢字（簡体字）,Táiwān,,.tw,Yes
+44,xn--kpry57d,.台灣,中華民国,中国語,漢字（繁体字）,Táiwān,,.tw,Yes
+45,xn--o3cw4h,.ไทย,タイ,タイ語,タイ文字,Thai,,.th,Yes
+46,xn--pgbs0dh,تونس.,チュニジア,アラビア語,アラビア文字,Tūnis,,.tn,Yes
+47,xn--j1amh,.укр,ウクライナ,ウクライナ語,キリル文字,ukr,,.ua,No
+48,xn--mgbaam7a8h,امارات.,アラブ首長国連邦,アラビア語,アラビア文字,Imārāt,,.ae,No
+49,xn--mgb2ddes,اليمن.,イエメン,アラビア語,アラビア文字,al Yemen,未委任,.ye,No

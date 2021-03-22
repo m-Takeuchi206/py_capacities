@@ -1,0 +1,6 @@
+,Name,翻訳,Restrictions,Operator,IDN,DNSSEC
+0,.casa,"""家""",—,Minds + Machines[n 3],Yes,Yes
+1,.cafe,カフェ・コーヒーショップ・コーヒー,—,ドーナツ,Yes,Yes
+2,.immo,フランス語・ドイツ語・オランダ語・イタリア語で「不動産」,—,ドーナツ[donuts 126],Yes,Yes
+3,.moda,"""ファッション""",—,Rightside Group[n 1],Spanish[10],Yes
+4,.voto,"""投票"", for election and campaign websites","Must use the domain in connection with a ""clearly identified political/democratic process.""[88] Initially only available to registrations in the United States.[89]",Afilias,不明,Yes
